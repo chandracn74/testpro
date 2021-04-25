@@ -1,0 +1,28 @@
+As discussed for the AOD update below are action points with us.
+
+Architectural Goals, Principles and Constraints
+●	Functional Requirements--- Bring to Confluence links from ALM—Updated By Wino & Sachin.
+●	Non Functional Requirements-- Missing in AOD
+●	Logical View ---Updated by Sachin
+o	System overview---- Updated by Sachin
+o	An overview of the software components that make up the system
+●	IS View
+o	What does the software do?
+o	The functional view allows you to summarise what the key functions of the system are---- Updated by Sachin
+●	Integration View
+o	Systems Integrations------- SDE connecting different systems-Sachin
+●	Security View
+o	High level Secuirty Update---- Updated by Chandra
+
+●	Quality of Service View--- Opertional Aspects
+This view describes how the architecture is supporting operational requirements. This gives a high-level description on how the different parts of the SDE solution can be monitored stand-alone. This should be further elaborated and synched with other solutions in the IKEA landscape.
+●	Implementation View------------- Detailed each components level (SOA, WCC and CPT)- Updated by Shivam Nagaraju and Chandra
+o	Component and Class diagrams
+o	Customization Information
+●	Deployment View----Updated by Shrinkaya
+●	Data View---------- DB Tables, stractcture and schema
+●	Size and Performance View--NFR
+●	Physical View--- Servers level details, Bring here-Chandra
+o	Hardware components in the system---- Excel sheet uploaded-Chandra
+●	Binary Details- Shrinkaya
+●	Installation Documents -GIT
